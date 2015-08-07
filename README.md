@@ -4,11 +4,11 @@ Pequeño programa para diagnosticar enfermedades respiratorias, utilizando la ba
 
 ## Mejoras
 
--Se puede hacer más grande la red
--Las consultas se pueden hacer más elegantes
--Se pueden insertar propiedades en los nodos para hacer inteligente el sistema
--Se puede expandir a diferentes tipos de enfermedades
--Se puede usar la API de wikipedia para obtener información sobre las enfermedades y sus sintomas
+- Se puede hacer más grande la red
+- Las consultas se pueden hacer más elegantes
+- Se pueden insertar propiedades en los nodos para hacer inteligente el sistema
+- Se puede expandir a diferentes tipos de enfermedades
+- Se puede usar la API de wikipedia para obtener información sobre las enfermedades y sus sintomas
 
 ## Installation
 
@@ -17,14 +17,14 @@ Pequeño programa para diagnosticar enfermedades respiratorias, utilizando la ba
 
 	~$ pip install 
 	~$ source /venv/bin/activate
-  (venv)~$ pip -r install reqs.txt
-  (venv)~$ python server.py
+  	~$ pip -r install reqs.txt
+  	~$ python server.py
 
 ## API Reference
 
--Neo4j: http://neo4j.com/developer/get-started
--py2neo: http://py2neo.org/2.0/
--Bottle: http://bottlepy.org/docs/dev/index.html
+- Neo4j: http://neo4j.com/developer/get-started
+- py2neo: http://py2neo.org/2.0/
+- Bottle: http://bottlepy.org/docs/dev/index.html
 
 ## License
-A short snippet describing the license (MIT, Apache, etc.)
+MIT: http://rem.mit-license.org
